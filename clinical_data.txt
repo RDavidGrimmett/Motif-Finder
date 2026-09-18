@@ -1,0 +1,3 @@
+Discovered  Location    Size(mm)    4   Status  Code_Name
+X   X   20  X   Sequenced   Chicken
+X   X   30  X   Sequenced   Duck    
