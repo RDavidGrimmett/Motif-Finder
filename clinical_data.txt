@@ -1,51 +1,51 @@
-Discoverer      Location        Diameter (mm)   Environment     Status  code_name
-Kerr    New Jersey      68      River   Sequenced       addax
-Schacher        Sweden  44      Sewage  Sequenced       badger
-No      Florida 6       River   Sequenced       basilisk
-Farrior New Jersey      75      River   Sequenced       bat
-Look    Florida 66      Sewage  Sequenced       bear
-Acosta  Staten Island   64      Swamp   Not sequenced   beetle
-Corpus  Staten Island   78      Swamp   Sequenced       budgerigar
-Barrette        Staten Island   19      River   Sequenced       buffalo
-Mauricio        Florida 57      River   Sequenced       bull
-Kelleher        New Jersey      26      Swamp   Not sequenced   bunny
-Sambrano        Sweden  72      Sewage  Sequenced       camel
-Rivet   Sweden  26      Swamp   Sequenced       chicken
-Innis   New Jersey      15      Sewage  Not sequenced   cow
-Bock    Staten Island   32      River   Sequenced       coyote
-Noonan  Florida 80      Sewage  Sequenced       deer
-Notter  Florida 41      Swamp   Not sequenced   dingo
-Lalor   Florida 19      Swamp   Not sequenced   dog
-Forness New Jersey      30      Sewage  Sequenced       dromedary
-Snuggs  Sweden  39      Swamp   Sequenced       eland
-Breton  Staten Island   42      Swamp   Sequenced       elephant
-Klump   New Jersey      62      Swamp   Not sequenced   finch
-Vanderburg      Sweden  26      River   Sequenced       fox
-Gorham  New Jersey      24      Sewage  Sequenced       goat
-Mccafferty      Florida 21      Sewage  Sequenced       gopher
-Landey  Florida 30      River   Sequenced       gorilla
-Gies    New Jersey      47      River   Sequenced       groundhog
-Sandoz  Sweden  5       Swamp   Not sequenced   highland
-Elridge New Jersey      55      Swamp   Sequenced       impala
-Blanch  Staten Island   48      Swamp   Sequenced       kangaroo
-Gulino  New Jersey      74      Swamp   Sequenced       kitten
-Kesner  New Jersey      28      Sewage  Sequenced       lamb
-Labrie  Florida 17      Sewage  Not sequenced   lion
-Dorrough        Staten Island   4       Sewage  Sequenced       lizard
-Knighten        New Jersey      25      River   Not sequenced   lovebird
-Frew    New Jersey      58      Swamp   Not sequenced   mongoose
-Tilton  Sweden  71      River   Sequenced       oryx
-Pickron Sweden  55      Sewage  Sequenced       panther
-Oommen  Sweden  35      River   Sequenced       parrot
-Twine   Sweden  56      Sewage  Sequenced       peccary
-Carstensen      Staten Island   65      Sewage  Sequenced       pronghorn
-Marchal Florida 80      Swamp   Sequenced       puma
-Beer    Staten Island   40      Sewage  Not sequenced   salamander
-Urenda  Sweden  78      Swamp   Not sequenced   sheep
-Rule    Sweden  46      River   Sequenced       snake
-Mohamed Florida 5       Swamp   Sequenced       snowy
-Hieber  New Jersey      60      River   Sequenced       springbok
-Bush    Staten Island   20      River   Not sequenced   turtle
-Sangster        Sweden  14      River   Sequenced       walrus
-Critchlow       Staten Island   33      River   Not sequenced   warthog
-Bonura  Staten Island   66      Sewage  Sequenced       waterbuck
+Discoverer	Location	Diameter (mm)	Environment	Status	code_name
+Kerr	New Jersey	68	River	Sequenced	addax
+Schacher	Sweden	44	Sewage	Sequenced	badger
+No	Florida	6	River	Sequenced	basilisk
+Farrior	New Jersey	75	River	Sequenced	bat
+Look	Florida	66	Sewage	Sequenced	bear
+Acosta	Staten Island	64	Swamp	Not sequenced	beetle
+Corpus	Staten Island	78	Swamp	Sequenced	budgerigar
+Barrette	Staten Island	19	River	Sequenced	buffalo
+Mauricio	Florida	57	River	Sequenced	bull
+Kelleher	New Jersey	26	Swamp	Not sequenced	bunny
+Sambrano	Sweden	72	Sewage	Sequenced	camel
+Rivet	Sweden	26	Swamp	Sequenced	chicken
+Innis	New Jersey	15	Sewage	Not sequenced	cow
+Bock	Staten Island	32	River	Sequenced	coyote
+Noonan	Florida	80	Sewage	Sequenced	deer
+Notter	Florida	41	Swamp	Not sequenced	dingo
+Lalor	Florida	19	Swamp	Not sequenced	dog
+Forness	New Jersey	30	Sewage	Sequenced	dromedary
+Snuggs	Sweden	39	Swamp	Sequenced	eland
+Breton	Staten Island	42	Swamp	Sequenced	elephant
+Klump	New Jersey	62	Swamp	Not sequenced	finch
+Vanderburg	Sweden	26	River	Sequenced	fox
+Gorham	New Jersey	24	Sewage	Sequenced	goat
+Mccafferty	Florida	21	Sewage	Sequenced	gopher
+Landey	Florida	30	River	Sequenced	gorilla
+Gies	New Jersey	47	River	Sequenced	groundhog
+Sandoz	Sweden	5	Swamp	Not sequenced	highland
+Elridge	New Jersey	55	Swamp	Sequenced	impala
+Blanch	Staten Island	48	Swamp	Sequenced	kangaroo
+Gulino	New Jersey	74	Swamp	Sequenced	kitten
+Kesner	New Jersey	28	Sewage	Sequenced	lamb
+Labrie	Florida	17	Sewage	Not sequenced	lion
+Dorrough	Staten Island	4	Sewage	Sequenced	lizard
+Knighten	New Jersey	25	River	Not sequenced	lovebird
+Frew	New Jersey	58	Swamp	Not sequenced	mongoose
+Tilton	Sweden	71	River	Sequenced	oryx
+Pickron	Sweden	55	Sewage	Sequenced	panther
+Oommen	Sweden	35	River	Sequenced	parrot
+Twine	Sweden	56	Sewage	Sequenced	peccary
+Carstensen	Staten Island	65	Sewage	Sequenced	pronghorn
+Marchal	Florida	80	Swamp	Sequenced	puma
+Beer	Staten Island	40	Sewage	Not sequenced	salamander
+Urenda	Sweden	78	Swamp	Not sequenced	sheep
+Rule	Sweden	46	River	Sequenced	snake
+Mohamed	Florida	5	Swamp	Sequenced	snowy
+Hieber	New Jersey	60	River	Sequenced	springbok
+Bush	Staten Island	20	River	Not sequenced	turtle
+Sangster	Sweden	14	River	Sequenced	walrus
+Critchlow	Staten Island	33	River	Not sequenced	warthog
+Bonura	Staten Island	66	Sewage	Sequenced	waterbuck
